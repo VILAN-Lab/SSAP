@@ -1,12 +1,17 @@
-Code for "SSAP: Storylines and Sentiment Aware Pre-Trained Model for Story Ending Generation"
+## Code for "SSAP: Storylines and Sentiment Aware Pre-Trained Model for Story Ending Generation"
 
-train:
+##### train:
+```
 python gpt_train.py 
+```
 
-infer:
+##### infer:
+```
 python run_pplm.py
+```
 
-eval:
+##### eval:
+```
 python result/eval.py
-
+```
 
