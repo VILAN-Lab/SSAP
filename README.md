@@ -1,4 +1,4 @@
-<!--## Code for "SSAP: Storylines and Sentiment Aware Pre-Trained Model for Story Ending Generation"-->
+## Code for "SSAP: Storylines and Sentiment Aware Pre-Trained Model for Story Ending Generation"
 
 ##### train:
 ```
